@@ -21,3 +21,6 @@
             var win3 = System.Environment.GetEnvironmentVariable("TMP");
             var win4 = System.Environment.GetEnvironmentVariable("TEMP");
             var win5 = System.Environment.GetEnvironmentVariable("Path");
+            
+            
+            取消Token的一些实例运用
